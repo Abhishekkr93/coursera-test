@@ -23,6 +23,8 @@ if ( $error !== false ) {
     print '<p style="color:red">';
     print htmlentities($error);
     print "</p>\n";
+    print"happy hacking";
+    print"</p>;
 }
 
 if ( $md5 !== false ) {
